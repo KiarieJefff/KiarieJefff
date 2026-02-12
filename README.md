@@ -47,8 +47,6 @@ Reusable preprocessing utilities for real-world datasets
 
 ## 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiarieJefff&show_icons=true&theme=tokyonight)
-
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KiarieJefff&theme=tokyonight" />
 </p>
