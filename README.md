@@ -48,11 +48,6 @@ Reusable Python scripts for preprocessing real-world datasets.
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiarieJefff&show_icons=true&theme=default)
-
----
-
 ## 📫 Connect With Me
 - LinkedIn: ([Add link](https://www.linkedin.com/in/jeff-kiarie-380a34380/))
 - Email: kiariekamau772@gmail.com
