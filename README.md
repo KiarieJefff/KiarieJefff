@@ -49,5 +49,5 @@ Reusable Python scripts for preprocessing real-world datasets.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: ([Add link](https://www.linkedin.com/in/jeff-kiarie-380a34380/))
+- LinkedIn: ([link](https://www.linkedin.com/in/jeff-kiarie-380a34380/))
 - Email: kiariekamau772@gmail.com
