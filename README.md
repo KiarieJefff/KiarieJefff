@@ -1,53 +1,72 @@
-# Hi, I'm Kamau 👋
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0E76A8&center=true&vCenter=true&width=700&lines=Hi+I'm+Kamau+Kiarie+👋;Backend+Developer+%7C+Data+Enthusiast;Building+Systems+That+Solve+Real+Problems;Learning+AI+%26+Cloud+Engineering" />
+</p>
+
+---
 
 ## 🚀 About Me
-I am a developer and data enthusiast focused on building practical systems and learning by shipping projects.  
-Currently exploring backend development, machine learning, and applied AI systems.
 
-- 🔭 Building: Service-based applications (e.g., PlumbConnect)
-- 📊 Interested in: Data Science, Time Series Modeling, AI Systems
-- 🌱 Learning: FastAPI, Cloud Deployment, DevOps fundamentals
-- 💡 Philosophy: Build → Test → Improve → Repeat
+- 🔭 Currently building scalable backend systems
+- 📊 Exploring Data Science & Time Series Modeling
+- ⚙️ Learning FastAPI, Docker & Cloud Deployment
+- 💡 Strong believer in learning by building
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-- Python
-- SQL
-- JavaScript (basic)
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frameworks & Tools
-- FastAPI
-- Pandas / NumPy
-- Scikit-learn
-- TensorFlow / Keras
-- Git & GitHub
-- Docker (learning)
-
-### Data & ML
-- Time Series Forecasting (ARIMA, LSTM, CNN-LSTM)
-- EDA & Statistical Analysis
-- Model Evaluation & Comparison
+### ⚙️ Frameworks & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 PlumbConnect (In Progress)
-Service marketplace platform connecting customers with plumbers.  
-Tech: FastAPI, PostgreSQL (planned), REST APIs.
+### 🔹 PlumbConnect
+Service marketplace backend built with FastAPI  
+REST APIs | Authentication | Database Integration
 
 ### 🔹 Time Series Model Comparison
-Compared ARIMA, LSTM, and CNN-LSTM on stock price data.  
-Implemented performance evaluation using MAE, RMSE.
+ARIMA vs LSTM vs CNN-LSTM  
+Performance evaluation with RMSE & MAE
 
-### 🔹 Data Cleaning Utilities
-Reusable Python scripts for preprocessing real-world datasets.
+### 🔹 Data Cleaning Toolkit
+Reusable preprocessing utilities for real-world datasets
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: ([link](https://www.linkedin.com/in/jeff-kiarie-380a34380/))
-- Email: kiariekamau772@gmail.com
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
