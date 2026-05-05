@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently building scalable backend systems
-- 📊 Exploring Data Science & Time Series Modeling
+- 📊 Exploring Data Science & Data Engineering
 - ⚙️ Learning FastAPI, Docker & Cloud Deployment
 - 💡 Strong believer in learning by building
 
@@ -38,12 +38,13 @@
 ## 📌 Featured Projects
 
 ### 🔹 PlumbConnect
-Service marketplace backend built with FastAPI  
+Service marketplace backend built with React  
 REST APIs | Authentication | Database Integration
 
-### 🔹 Time Series Model Comparison
-ARIMA vs LSTM vs CNN-LSTM  
-Performance evaluation with RMSE & MAE
+### 🔹 End-to-End Data Engineering & ML Pipeline
+Hourly data ingestion via API with continuous retraining
+Time Series Modeling: ARIMA vs LSTM vs CNN-LSTM
+Performance evaluation using RMSE & MAE
 
 ### 🔹 Data Cleaning Toolkit
 Reusable preprocessing utilities for real-world datasets
@@ -60,7 +61,7 @@ Reusable preprocessing utilities for real-world datasets
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINK](https://www.linkedin.com/in/jeff-kiarie-380a34380/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeff-kiarie-380a34380/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiariekamau772@gmail.com)
 
 ---
