@@ -43,7 +43,9 @@ REST APIs | Authentication | Database Integration
 
 ### 🔹 End-to-End Data Engineering & ML Pipeline
 Hourly data ingestion via API with continuous retraining
+
 Time Series Modeling: ARIMA vs LSTM vs CNN-LSTM
+
 Performance evaluation using RMSE & MAE
 
 ### 🔹 Data Cleaning Toolkit
