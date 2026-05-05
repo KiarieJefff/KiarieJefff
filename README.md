@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0E76A8&center=true&vCenter=true&width=700&lines=Hi+I'm+Kamau+Kiarie+👋;Backend+Developer+%7C+Data+Enthusiast;Building+Systems+That+Solve+Real+Problems;Learning+AI+%26+Cloud+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0E76A8&center=true&vCenter=true&width=700&lines=Hi+I'm+Kamau+Kiarie+👋;Backend+Developer+%7C+Data+Enthusiast;Building+Systems+That+Solve+Real+Problems;Learning+AI+%26+Data/Cloud+Engineering" />
 </p>
 
 ---
@@ -27,6 +27,11 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -55,7 +60,7 @@ Reusable preprocessing utilities for real-world datasets
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINK](https://www.linkedin.com/in/jeff-kiarie-380a34380/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiariekamau772@gmail.com)
 
 ---
